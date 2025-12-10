@@ -153,5 +153,3 @@ Each testbench compares RTL results with external reference values.
 
 - Multiplication and Addition Pmadd (32b)
 ![T6](images/mul_add.jpg)
-
----
